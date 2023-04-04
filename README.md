@@ -4,4 +4,9 @@
 
 ### Detalhes:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=playerLuiz)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=playerLuiz&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Projetos:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=playerLuiz&repo=TikTok-Projeto.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
