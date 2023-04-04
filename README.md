@@ -1,6 +1,6 @@
 ### Olá Jogadores 👋
 
-###### Estudando frontend e backend a 7 meses e contando, conhecimento em programação de jogos mobile com c# vulgo melhor motion designer e streamer da minha rua.
+###### Estudando front-end e back-end a 7 meses e contando, conhecimento em programação de jogos mobile com c#, vulgo melhor motion designer e streamer da minha rua.
 
 ### Detalhes:
 
